@@ -1,9 +1,9 @@
-# What drives the price of a car
+# Will the client subscribe (yes/no) to a term deposit (variable y)?
 
 # Deliverables
 
 The Jupyter notebook is available here:
-[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/blob/46a4d4cecbfe8efb29bf9d67eafd256ce591672e/MyWorkF.ipynb)
+[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/blob/64c28f208ff2a511c299d20bf35c4abc24e5c7da/MyWorkF.ipynb)
 
 
 # Discussion
