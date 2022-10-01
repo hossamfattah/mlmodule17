@@ -60,11 +60,11 @@ Then I used logistic regression with best parameter C=0.01
         True       0.61      0.15      0.24       125
 
     accuracy                           0.90      1131
-   macro avg       0.76      0.57      0.59      1131
-weighted avg       0.87      0.90      0.87      1131
 
 Elapsed during training: 0.01s
+
 Accuracy score is:  0.90
+
 
 ![Screenshot](./images/image02.png)
 
@@ -78,10 +78,10 @@ Then I used DecisionTreeClassifier with best parameter criterion='gini',max_dept
          Yes       1.00      0.98      0.99       125
 
     accuracy                           1.00      1131
-   macro avg       1.00      0.99      0.99      1131
-weighted avg       1.00      1.00      1.00      1131
+
 
 Elapsed during training: 0.02s
+
 Accuracy score: 0.9973s
 
 ![Screenshot](./images/image03.png)
@@ -96,11 +96,11 @@ Then I used K-NeighborsClassifierssifier with best parameter n_neighbors=13
          Yes       0.43      0.14      0.22       125
 
     accuracy                           0.88      1131
-   macro avg       0.67      0.56      0.58      1131
-weighted avg       0.85      0.88      0.86      1131
-
+   
 Elapsed during training: 0.01s
+
 Accuracy score: 0.8842s
+
 
 ![Screenshot](./images/image04.png)
 
@@ -112,14 +112,13 @@ Then I used supported vectors with best parameter kernel='rbf'
          Yes       0.00      0.00      0.00       125
 
     accuracy                           0.89      1131
-   macro avg       0.44      0.50      0.47      1131
-weighted avg       0.79      0.89      0.84      1131
 
 Elapsed during training: 0.17s
+
 Accuracy score: 0.8886s
 
-![Screenshot](./images/image05.png)
 
+![Screenshot](./images/image05.png)
 
 
 # Conclusions 
