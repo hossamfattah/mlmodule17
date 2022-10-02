@@ -78,7 +78,7 @@ And this is the Compute Receiver operating characteristic (ROC) curve:
 
 ![Screenshot](./images/image02_2.png)
 
-and I found the linear regression coefficient for the features:
+and I found the logistic regression coefficients for the features:
 
 ![Screenshot](./images/image02_3.png)
 
