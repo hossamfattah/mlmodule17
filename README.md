@@ -3,7 +3,7 @@
 # Deliverables
 
 The Jupyter notebook is available here:
-[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/blob/64c28f208ff2a511c299d20bf35c4abc24e5c7da/MyWorkF.ipynb)
+[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/blob/031771577baeba50174b2bd18b8c88506102764a/MyWorkF.ipynb)
 
 
 # Discussion
