@@ -52,6 +52,12 @@ This is by price:
 I plotted the count plot of bank loan decision (Yes is 1 and No is 0)
 ![Screenshot](./images/image01.png)
 
+I found the correlation among features and target :
+Duration has the most influence on the target y and campaign is least influencer
+
+![Screenshot](./images/image01_1.png)
+
+
 Then I used logistic regression with best parameter C=0.01
 
               precision    recall  f1-score   support
@@ -68,6 +74,9 @@ Accuracy score is:  0.90
 
 ![Screenshot](./images/image02.png)
 
+And this the Compute Receiver operating characteristic (ROC) curve: 
+
+![Screenshot](./images/image02_2.png)
 
 Then I used DecisionTreeClassifier with best parameter criterion='gini',max_depth = 20
 
@@ -121,6 +130,9 @@ Accuracy score: 0.8886s
 ![Screenshot](./images/image05.png)
 
 
+I plotted fit time and accuracy for all ML models uses and it is as below
+![Screenshot](./images/image06.png)
+
 # Conclusions 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y). 
-Decision tree classifier is found to provide the best accuracy of 0.99 with depth of 13.
+WoW!. I found that the Decision tree classifier is found to provide the best accuracy of 0.99 or almost 1 (i.e.e, it has zero error) with depth of 13.
