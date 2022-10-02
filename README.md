@@ -74,7 +74,7 @@ Accuracy score is:  0.90
 
 ![Screenshot](./images/image02.png)
 
-And this the Compute Receiver operating characteristic (ROC) curve: 
+And this is the Compute Receiver operating characteristic (ROC) curve: 
 
 ![Screenshot](./images/image02_2.png)
 
@@ -135,4 +135,4 @@ I plotted fit time and accuracy for all ML models uses and it is as below
 
 # Conclusions 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y). 
-WoW!. I found that the Decision tree classifier is found to provide the best accuracy of 0.99 or almost 1 (i.e.e, it has zero error) with depth of 13.
+WoW!. I found that the Decision tree classifier provides the best accuracy of 0.99 or almost 1 (i.e, it has zero error) with depth of 13.
