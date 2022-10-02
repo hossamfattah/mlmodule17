@@ -3,8 +3,7 @@
 # Deliverables
 
 The Jupyter notebook is available here:
-[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/blob/031771577baeba50174b2bd18b8c88506102764a/MyWorkF.ipynb)
-
+[Jupyter Notebook](https://github.com/hossamfattah/mlmodule17/MyWorkF.ipynb)
 
 # Discussion
 I read the dataset and started to explore it. I used info() to see what columns and data types is each column
