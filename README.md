@@ -78,6 +78,9 @@ And this is the Compute Receiver operating characteristic (ROC) curve:
 
 ![Screenshot](./images/image02_2.png)
 
+and I found the linear regression coefficient for the features 
+![Screenshot](./images/image02_3.png)
+
 Then I used DecisionTreeClassifier with best parameter criterion='gini',max_depth = 20
 
 
