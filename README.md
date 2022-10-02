@@ -100,6 +100,11 @@ Accuracy score: 0.9973s
 ![Screenshot](./images/image03.png)
 
 
+I also try to find best accuracy when varying ccp_alpha.  I make a loop over the ccp_alphas building a tree for each and records its training and testing accuracy to train_accs and test_accs below. We can see the ccp_alpha value resulted in the highest accuracy on the test data (which is alpha =0.00089 and test accuracy is 0.897)
+
+![Screenshot](./images/image03_01.png)
+
+
 Then I used K-NeighborsClassifierssifier with best parameter n_neighbors=13
 
 
